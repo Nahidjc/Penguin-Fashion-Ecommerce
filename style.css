@@ -138,9 +138,13 @@ section {
     border-radius: 20px;
 }
 
+.img-box {
+    width: 78px;
+    height: 82px;
+}
 
 
-.col-md-6 img {
+.footer-img img {
     width: 80%;
     height: 80%;
 }
